@@ -23,7 +23,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-model = ChatOpenAI(model = 'gpt-4-turbo')
+model = ChatOpenAI(model = 'gpt-4o-mini')
 
 class ChatState(TypedDict):
     messages: Annotated[list[BaseMessage], add_messages]

@@ -75,4 +75,4 @@ Update the `chat_node` system prompt to include the new tool.
 Feel free to fork this repo, open issues, or submit pull requests!
 
 ## 👨‍💻 Author & Connect
-Created by [Naimah](https://github.com/icebeartellsnolies). Reach out via [GitHub Issues](https://github.com/icebeartellsnolies/RAGraphChat/issues) or [LinkedIn](https://www.linkedin.com/in/naimah-rehman).
+Created by [Naimah](https://github.com/icebeartellsnolies). Reach out via [GitHub Issues](https://github.com/icebeartellsnolies/RAGraphChat/issues) or [LinkedIn](https://www.linkedin.com/in/naimah-rehman-b1390b283/).
